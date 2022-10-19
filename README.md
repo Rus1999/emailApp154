@@ -1,24 +1,13 @@
-Reply App - Solution Code
-=================================
-Solution code for the Android Basics with Compose: Reply app.
+# Ait emial 154
 
-Introduction
-------------
-The Reply app is a simple email client that display various categories of your
-inbox. This app is used to illustrate the concept of adaptive layout.
+# email list
+![](https://github.com/Rus1999/emailApp154/blob/master/capture/list.png)
 
-Pre-requisites
---------------
+# email detail
+![](https://github.com/Rus1999/emailApp154/blob/master/capture/detail.png)
 
-* Experience with Kotlin syntax.
-* How to create and run a project in Android Studio.
-* How to create composable functions
-* How to create compose navigation
+# email reply
+![](https://github.com/Rus1999/emailApp154/blob/master/capture/reply.png)
 
-Getting Started
----------------
-
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+# email reply all
+![](https://github.com/Rus1999/emailApp154/blob/master/capture/replyall.png)
